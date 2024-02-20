@@ -1,0 +1,514 @@
+2024-02-19 00:12:49 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-19 00:12:49 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-19 00:16:56 - [31merror[39m: [31mNão foi possível conectar![39m
+2024-02-19 00:17:00 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-19 00:17:00 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-19 00:23:12 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-19 00:23:12 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-19 00:23:14 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-19 00:23:14 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-19 00:26:11 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-19 00:26:11 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-19 00:26:44 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-19 00:26:44 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-19 00:26:48 - [35mhttp[39m: [35mGET /api/ 200 11 - 2.230 ms[39m
+[35m[39m
+2024-02-19 00:27:02 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-19 00:27:02 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-19 00:27:23 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-19 00:27:23 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-19 00:27:32 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-19 00:27:32 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-19 00:27:42 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-19 00:27:42 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-19 00:27:50 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-19 00:27:50 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-19 00:28:13 - [35mhttp[39m: [35mGET /api/ 200 11 - 3.321 ms[39m
+[35m[39m
+2024-02-20 01:03:02 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:03:02 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:03:19 - [35mhttp[39m: [35mGET /api/ 200 11 - 2.776 ms[39m
+[35m[39m
+2024-02-20 01:06:17 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:06:17 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:06:18 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:06:18 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:06:23 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:06:23 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:06:29 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:06:29 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:07:33 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:07:33 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:07:48 - [35mhttp[39m: [35mGET /api/test 200 11 - 1.900 ms[39m
+[35m[39m
+2024-02-20 01:08:03 - [35mhttp[39m: [35mGET /api/test/movie 404 153 - 1.375 ms[39m
+[35m[39m
+2024-02-20 01:08:40 - [35mhttp[39m: [35mGET /api/api/movie 404 152 - 0.720 ms[39m
+[35m[39m
+2024-02-20 01:08:50 - [35mhttp[39m: [35mPOST /api/api/movie 404 153 - 0.307 ms[39m
+[35m[39m
+2024-02-20 01:09:11 - [35mhttp[39m: [35mPOST /api/movie 200 18 - 0.519 ms[39m
+[35m[39m
+2024-02-20 01:10:29 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:10:29 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:10:31 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:10:31 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:10:40 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:10:40 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:10:41 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:10:42 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:10:43 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:10:43 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:10:49 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:10:49 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:10:54 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:10:54 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:10:58 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:10:58 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:11:00 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:11:00 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:11:03 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:11:03 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:11:12 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:11:12 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:11:15 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:11:15 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:11:17 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:11:17 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:11:19 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:11:19 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:11:23 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:11:23 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:11:30 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:11:30 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:11:34 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:11:34 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:11:37 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:11:37 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:11:42 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:11:42 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:11:50 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:11:50 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:11:52 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:11:52 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:11:55 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:11:55 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:11:58 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:11:58 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:12:00 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:12:00 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:12:03 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:12:03 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:12:04 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:12:04 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:12:28 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:12:28 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:13:43 - [35mhttp[39m: [35mPOST /api/movie 201 155 - 27.427 ms[39m
+[35m[39m
+2024-02-20 01:28:20 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:28:20 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:28:27 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:28:27 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:28:57 - [35mhttp[39m: [35mPOST /api/movie 201 157 - 25.905 ms[39m
+[35m[39m
+2024-02-20 01:32:08 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:32:08 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:32:20 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2024-02-20 01:32:43 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2024-02-20 01:33:31 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2024-02-20 01:33:49 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2024-02-20 01:35:14 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:35:14 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:35:30 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:35:30 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:35:33 - [35mhttp[39m: [35mPOST /api/movie 201 157 - 28.324 ms[39m
+[35m[39m
+2024-02-20 01:35:40 - [35mhttp[39m: [35mPOST /api/movie 201 142 - 14.286 ms[39m
+[35m[39m
+2024-02-20 01:35:50 - [35mhttp[39m: [35mPOST /api/movie 422 53 - 2.169 ms[39m
+[35m[39m
+2024-02-20 01:36:11 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:36:11 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:36:16 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:36:16 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:36:22 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:36:22 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:36:23 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:36:23 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:36:32 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:36:32 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:36:43 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:36:43 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:36:45 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:36:45 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:36:55 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:36:55 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:36:58 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:36:58 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:37:00 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:37:00 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:37:06 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:37:06 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:37:14 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:37:14 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:37:18 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:37:18 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:37:20 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:37:20 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:37:24 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:37:24 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:37:31 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:37:31 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:37:47 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:37:47 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:38:05 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:38:05 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:38:07 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:38:07 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:38:12 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:38:12 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:38:13 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:38:13 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:38:22 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:38:22 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:38:26 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:38:26 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:38:29 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:38:29 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:38:32 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:38:32 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:38:53 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:38:53 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:39:13 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:39:13 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:39:16 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:39:16 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:39:31 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:39:31 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:39:33 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:39:33 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:39:35 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:39:35 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:39:45 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:39:45 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:39:49 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:39:49 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:39:52 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:39:52 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:40:26 - [35mhttp[39m: [35mPOST /api/movie 422 157 - 5.505 ms[39m
+[35m[39m
+2024-02-20 01:40:45 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:40:45 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:41:01 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:41:01 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:41:15 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:41:15 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:41:19 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:41:19 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:41:20 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:41:20 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:41:24 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:41:24 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:41:32 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:41:32 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:41:39 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:41:39 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:41:41 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:41:41 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:42:09 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:42:09 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:42:12 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:42:12 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:42:17 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:42:17 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:42:22 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:42:22 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:42:25 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:42:25 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:42:35 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:42:35 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:42:39 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:42:39 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:42:43 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:42:43 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:42:45 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:42:45 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:42:50 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:42:50 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:42:56 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:42:56 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:43:08 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:43:08 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:43:10 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:43:10 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:43:13 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:43:13 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:43:17 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:43:18 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:43:27 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:43:27 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:43:28 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:43:28 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:43:33 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:43:33 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:43:35 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:43:35 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 01:43:46 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 01:43:46 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:39:14 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:39:14 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:39:38 - [35mhttp[39m: [35mGET /api//movie/65d426f7f7c356c94964a1fa - - - - ms[39m
+[35m[39m
+2024-02-20 12:39:41 - [35mhttp[39m: [35mGET /api//movie/65d426f7f7c356c94964a1fb 404 34 - 10.275 ms[39m
+[35m[39m
+2024-02-20 12:40:11 - [35mhttp[39m: [35mGET /api//movie/65d426f7f7c356c94964a1fa - - - - ms[39m
+[35m[39m
+2024-02-20 12:40:30 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:40:30 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:40:32 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:40:32 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:40:37 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:40:37 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:40:39 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:40:39 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:40:41 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:40:41 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:40:43 - [35mhttp[39m: [35mGET /api//movie/65d426f7f7c356c94964a1fa 200 165 - 20.057 ms[39m
+[35m[39m
+2024-02-20 12:42:57 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:42:57 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:43:06 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:43:06 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:43:07 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:43:07 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:44:00 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:44:00 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:44:02 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:44:02 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:44:04 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:44:04 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:44:07 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:44:07 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:44:11 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:44:11 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:44:13 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:44:13 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:44:15 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:44:15 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:44:16 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:44:16 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:44:20 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:44:20 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:44:24 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:44:24 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:44:33 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:44:33 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:45:35 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:45:35 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:45:36 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:45:36 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:45:37 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:45:37 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:45:45 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:45:45 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:45:47 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:45:47 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:45:50 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:45:50 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:45:51 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:45:51 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:45:56 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:45:56 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:46:15 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:46:15 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:46:19 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:46:19 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:46:52 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:46:52 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:46:55 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:46:55 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:47:37 - [31merror[39m: [31mAlgo deu errado: movie is not defined[39m
+2024-02-20 12:48:01 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:48:01 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:48:03 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:48:03 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:48:04 - [35mhttp[39m: [35mGET /api//movie 200 616 - 18.464 ms[39m
+[35m[39m
+2024-02-20 12:48:59 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:48:59 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:49:06 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:49:06 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:49:08 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:49:08 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:49:30 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:49:30 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:49:34 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:49:34 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:49:44 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:49:44 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:49:51 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:49:51 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:49:57 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:49:57 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:50:09 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:50:09 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:50:21 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:50:21 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:50:35 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:50:35 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:50:37 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:50:37 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:50:39 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:50:39 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:50:51 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:50:51 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:50:53 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:50:53 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:51:03 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:51:03 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:51:05 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:51:05 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:51:07 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:51:07 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:51:09 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:51:09 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:51:27 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:51:27 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:51:30 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:51:30 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:51:36 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:51:36 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:51:44 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:51:44 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:51:53 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:51:53 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:51:55 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:51:55 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:51:59 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:51:59 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:52:13 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:52:13 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:52:15 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:52:15 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:52:20 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:52:20 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:52:22 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:52:22 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:52:25 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:52:25 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:52:27 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:52:27 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:52:28 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:52:28 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:52:40 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:52:40 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:52:52 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:52:52 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:52:54 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:52:54 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:53:23 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:53:23 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:53:31 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:53:31 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:53:32 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:53:32 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:53:35 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:53:35 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:53:38 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:53:38 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:53:40 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:53:40 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:53:44 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:53:44 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:53:48 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:53:48 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:54:01 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:54:01 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:54:13 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:54:13 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:54:15 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:54:15 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:54:47 - [35mhttp[39m: [35mGET /api//movie/delete/65d426f7f7c356c94964a1fb 404 51 - 15.480 ms[39m
+[35m[39m
+2024-02-20 12:54:53 - [35mhttp[39m: [35mGET /api//movie/delete/65d426f7f7c356c94964a1fa 200 29 - 15.489 ms[39m
+[35m[39m
+2024-02-20 12:55:00 - [35mhttp[39m: [35mGET /api//movie/65d426f7f7c356c94964a1fa 404 34 - 9.746 ms[39m
+[35m[39m
+2024-02-20 12:56:20 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:56:20 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:56:28 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:56:28 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:56:43 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:56:43 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:57:01 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:57:01 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:57:09 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:57:09 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:57:19 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:57:19 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:57:26 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:57:26 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:57:30 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:57:30 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:57:32 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:57:32 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:57:51 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:57:51 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:58:12 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:58:12 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:58:14 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:58:14 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:58:35 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:58:35 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:58:38 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:58:38 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:58:43 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:58:43 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:59:11 - [35mhttp[39m: [35mGET /api//movie/65d426f7f7c356c94964a1fb 404 34 - 16.173 ms[39m
+[35m[39m
+2024-02-20 12:59:41 - [35mhttp[39m: [35mDELETE /api//movie/delete/65d426f7f7c356c94964a1fa 404 184 - 2.830 ms[39m
+[35m[39m
+2024-02-20 12:59:52 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 12:59:52 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 12:59:54 - [35mhttp[39m: [35mDELETE /api//movie/delete/65d426f7f7c356c94964a1fa 404 51 - 15.318 ms[39m
+[35m[39m
+2024-02-20 13:00:00 - [35mhttp[39m: [35mPATCH /api//movie/65d426f7f7c356c94964a1fb 404 34 - 10.191 ms[39m
+[35m[39m
+2024-02-20 13:00:35 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 13:00:35 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 13:00:38 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 13:00:38 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 13:00:43 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 13:00:43 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 13:00:45 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 13:00:45 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 13:01:14 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 13:01:14 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 13:01:19 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 13:01:19 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 13:01:23 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 13:01:23 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 13:01:25 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 13:01:25 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 13:01:27 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 13:01:27 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 13:01:29 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 13:01:29 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 13:01:32 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 13:01:32 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 13:02:13 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 13:02:13 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 13:04:15 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 13:04:15 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 13:04:18 - [35mhttp[39m: [35mGET /api//movie 200 460 - 30.362 ms[39m
+[35m[39m
+2024-02-20 13:05:33 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 13:05:33 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
+2024-02-20 13:06:28 - [35mhttp[39m: [35mPATCH /api//movie/65d42a8927c484f5944f1162 200 181 - 34.631 ms[39m
+[35m[39m
+2024-02-20 13:07:16 - [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-02-20 13:07:16 - [32minfo[39m: [32mAplicação executando na porta 3001.[39m
